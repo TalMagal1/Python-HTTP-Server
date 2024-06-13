@@ -1,6 +1,3 @@
-### Python-HTTP-Server
-
-Copy code
 # Books Management HTTP Server
 
 ## Overview
